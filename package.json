@@ -1,7 +1,7 @@
 {
   "name": "tdd-starter-vanilla",
   "version": "0.0.1",
-  "description": "A starter project for TDD with vanilla JavaScript.",
+  "description": "Podcast session with Alex Bunardzic and Robert C. Martin",
   "main": "index.js",
   "type": "module",
   "scripts": {
