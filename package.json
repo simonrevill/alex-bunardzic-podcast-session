@@ -1,5 +1,5 @@
 {
-  "name": "tdd-starter-vanilla",
+  "name": "alex-bunardzic-podcast-session",
   "version": "0.0.1",
   "description": "Podcast session with Alex Bunardzic and Robert C. Martin",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonrevill/tdd-starter-vanilla.git"
+    "url": "git+https://github.com/simonrevill/alex-bunardzic-podcast-session.git"
   },
   "keywords": [
     "tdd",
@@ -19,9 +19,9 @@
   "author": "Simon Revill",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/simonrevill/tdd-starter-vanilla/issues"
+    "url": "https://github.com/simonrevill/alex-bunardzic-podcast-session/issues"
   },
-  "homepage": "https://github.com/simonrevill/tdd-starter-vanilla#readme",
+  "homepage": "https://github.com/simonrevill/alex-bunardzic-podcast-session#readme",
   "devDependencies": {
     "@stryker-mutator/jest-runner": "^8.6.0",
     "@testing-library/dom": "^10.4.0",
