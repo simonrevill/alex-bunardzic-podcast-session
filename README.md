@@ -1,4 +1,4 @@
-# TDD Starter Vanilla
+# Alex Bunardzic Podcast Session
 
 A starter project for TDD with vanilla JavaScript, Jest and Stryker.
 
